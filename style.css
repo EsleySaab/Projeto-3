@@ -51,9 +51,16 @@ li {
 
 li::marker {
   color: black;
-} 
+}
 
 p.beomeo {
-color: #333333;
+  color: #333333;
+}
 
+h3 {
+  margin-left: 10px;
+}
+
+p.parque {
+  color: #333333;
 }
