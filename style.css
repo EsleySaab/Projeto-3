@@ -1,0 +1,21 @@
+.page p {
+  font-style: italic;
+  font-weight: bold;
+  color: #e1624f;
+  font-size: 16px;
+  line-height: 22px;
+}
+
+h1 {
+  color: #1b1b1b;
+}
+
+img {
+  width: 100%;
+}
+
+p.subtitulo {
+  color: #333333;
+}
+
+
