@@ -4,8 +4,17 @@ body {
   margin-right: 50px;
 }
 
+p.titulo-1 {
+  font-style: normal;
+  font-weight: bold;
+}
+
+p.amantes {
+  font-style: normal;
+  font-weight: bold;
+}
+
 .page p {
-  font-style: italic;
   color: #e1624f;
   font-size: 16px;
   line-height: 22px;
@@ -13,6 +22,8 @@ body {
 
 h1 {
   color: #1b1b1b;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 img {
@@ -63,4 +74,22 @@ h3 {
 
 p.parque {
   color: #333333;
+}
+
+p.resumo-busan {
+  color: #333333;
+  text-align: center;
+  font-style: normal;
+}
+
+footer {
+  text-align: center;
+  padding: 20px
+}
+
+footer img {
+  width: 16px;
+  height: 20px;
+  vertical-align: middle;
+  margin-bottom: 46px;
 }
